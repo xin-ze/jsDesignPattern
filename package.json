@@ -1,0 +1,20 @@
+{
+  "name": "designpattern",
+  "version": "1.0.0",
+  "description": "design pattern javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pattern"
+  ],
+  "author": "zxz",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.5.0",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0"
+  }
+}
